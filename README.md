@@ -1,19 +1,12 @@
 # Hi!
 
-I'm Chris How. 
+I'm Chris How, a seasoned web and web-app developer with nearly 25 years of experience. My expertise spans PHP, Laravel, CSS, Javascript, SQL, and Linux administration.
 
-I have almost 25 years experience as a web/web-app developer.
+While I have extensive experience with WordPress (who hasn't?), I currently pivoting away from that, concentrating on Laravel (I've been using it since v2!) and diving into AI and LLMs.
 
-My main focuses are:
-+ PHP
-+ Laravel
-+ CSS
-+ Javascript
-+ SQL
-+ Linux admin
+Currently available for freelance adventures, short-term gigs, consultancy quests, and epic contracts. Let's build some digital kingdoms together!
 
-I'm available for freelance work/short-term gigs, consultancy and longer contracts. 
+I am based in Spain, am a native English speaker 🇬🇧, and I have working proficiency in Spanish 🇪🇸. 
 
-I also do a lot of WordPress (though I'm trying to pivot away from it), and am increasing my exposure with AI and LLMs. 
+Feel free to reach out for professional collaborations or inquiries.
 
-I'm based in Spain. Native English 🇬🇧 and working Spanish 🇪🇸. 
