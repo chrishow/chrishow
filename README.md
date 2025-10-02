@@ -6,7 +6,7 @@ I'm currently concentrating on Laravel (I've been using it since [v3](http://tin
 
 Currently available for freelance adventures, short-term gigs, consultancy quests, and epic contracts. Let's build some digital kingdoms together!
 
-I am based in Spain, am a native English speaker 🇬🇧, and I have working proficiency in Spanish 🇪🇸. 
+I am based in Spain, am a native English speaker 🇬🇧, and I have working proficiency in Spanish (B2+) 🇪🇸. 
 
 Feel free to reach out for professional collaborations or inquiries.
 
